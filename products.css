@@ -1,74 +1,84 @@
 .categories {
   display: flex;
   flex-direction: column;
-  gap:;
+  gap: 1ch;
   height: 25vh;
-  width: 25rem;
+  width: 15rem;
   font-family: Arial, sans-serif;
-  margin: 0px 0px;
-  padding: 0px 0px;
+}
+.categories ul {
+  margin: 0px;
+  padding: 0px;
 }
 #clothing {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #electronics {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #books {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #FB {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #appliances {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #SO {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #TB {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
 #Garden {
   display: flex;
   font-size: 20px;
-  background-color:;
-  color: black;
+  background-color: rgb(86, 86, 252);
+  color: white;
   padding: 5px;
   border-radius: 0px;
+  margin: 5px;
 }
