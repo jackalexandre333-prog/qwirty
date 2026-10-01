@@ -1,0 +1,74 @@
+.categories {
+  display: flex;
+  flex-direction: column;
+  gap:;
+  height: 25vh;
+  width: 25rem;
+  font-family: Arial, sans-serif;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+#clothing {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#electronics {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#books {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#FB {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#appliances {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#SO {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#TB {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
+#Garden {
+  display: flex;
+  font-size: 20px;
+  background-color:;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+}
