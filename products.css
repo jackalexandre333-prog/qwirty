@@ -2,8 +2,7 @@
   display: flex;
   flex-direction: column;
   gap: 1ch;
-  height: 25vh;
-  width: 15rem;
+  width: 16rem;
   font-family: Arial, sans-serif;
 }
 .categories ul {
